@@ -1,0 +1,17 @@
+/L12"LPG Grammar" GRM_LANG Nocase Line Comment = -- Block Comment On = /. Block Comment Off = ./ Block Comment On Alt = /: Block Comment Off Alt = :/ Escape Char = \ String Chars = '" File Extensions = g
+/Delimiters = ~!%^&*()+|\/{}[];"'` ,	.
+/C1"Keywords"
+%Options
+$Alias
+$Define
+$End
+$Export
+$Headers
+$Names
+$Rules
+$Start
+$Terminals
+/C2"Operators"
+::=
+->
+|
