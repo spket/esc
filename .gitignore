@@ -1,4 +1,11 @@
-dist/
+dist/*
+
+# Generated files
+**/es4.l
+**/es4act.*
+**/es4init.cpp
+**/es4prs.*
+**/es4sym.h
 
 # Compiled Object files
 *.slo
